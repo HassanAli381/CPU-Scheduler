@@ -30,3 +30,25 @@
 *.exe
 *.out
 *.app
+
+# Ignore build directories
+cmake-build-debug/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore backup files
+*.bak
+*.swp
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore CMake generated files
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake

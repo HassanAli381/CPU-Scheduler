@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1722880364 source:d:\programming\programming\git hub\cpu-scheduler\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<queue>
+	<atomic>
+	<chrono>
+	<thread>
+
